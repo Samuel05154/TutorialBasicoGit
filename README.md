@@ -6,3 +6,4 @@ Agrego esta linea de texto desde el editor en linea (internet) para hacer un Pul
 
 Este texto fue agregado via editor de texto local para hacer uso de github desktop
 
+texto modificado desde Visual Studio Code
